@@ -1,3 +1,2 @@
 # hello-word
-hello-word tutorial
-here is my first branch.
+hello-word tutorial here is my first branch.
